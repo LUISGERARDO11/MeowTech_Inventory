@@ -1,2 +1,2 @@
 # MeowTech_Inventory
-En este repositorio se encuentra el código fuente de la aplicación MewTech
+En este repositorio se encuentra el instalador de la aplicación MewTech
